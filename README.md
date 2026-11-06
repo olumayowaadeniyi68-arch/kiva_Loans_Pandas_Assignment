@@ -4,7 +4,7 @@ Author: Olumayowa Adeniyi
 
 This notebook explores six questions about Kiva loans using Pandas.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olumayowaadeniyi68-arch/kiva-loans-pandas-assignment/blob/main/kiva_loans_analysis.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olumayowaadeniyi68-arch/kiva_Loans_Pandas_Assignment/blob/main/kiva_loans_analysis.ipynb.ipynb)
 
 ## Dataset
 
